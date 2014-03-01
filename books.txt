@@ -1,0 +1,5 @@
+1	4	false	2
+5	9	false	7
+Big Java	1132	true	100
+Head First Java	688	false	103
+Effective Java	346	false	307
